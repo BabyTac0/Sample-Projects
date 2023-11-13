@@ -5,8 +5,8 @@ This is a collection of python projects and one tableau dashboard completed via 
 ---------------------------
 ## Table of Contents
 ### JTTDataDashboardReportv2.pdf 
-https://github.com/BabyTac0/Sample-Projects/blob/main/JTTDataDashboardReportv2.pdf
-A pdf containing insights gleaned from EDA via Tableu of airline traffic delays. Links to tableau reports and dashboard are included.
+
+A pdf containing insights gleaned from EDA via Tableu of airline traffic delays. Links to tableau reports and dashboard are included. https://github.com/BabyTac0/Sample-Projects/blob/main/JTTDataDashboardReportv2.pdf
 
 ### wrangle_a_dataset (1).ipynb
 In this project, I creat
